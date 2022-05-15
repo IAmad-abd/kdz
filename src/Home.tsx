@@ -368,7 +368,7 @@ const Home = (props: HomeProps) => {
     ]);
 
     return (
-<main>
+    <main>
 
 <>
 
@@ -1954,17 +1954,17 @@ const Home = (props: HomeProps) => {
     </div>
   </div>
 
-  <div className="q-notifications">
-    <div className="q-notifications__list q-notifications__list--top fixed column no-wrap items-start" />
-    <div className="q-notifications__list q-notifications__list--top fixed column no-wrap items-end" />
-    <div className="q-notifications__list q-notifications__list--bottom fixed column no-wrap items-start" />
-    <div className="q-notifications__list q-notifications__list--bottom fixed column no-wrap items-end" />
-    <div className="q-notifications__list q-notifications__list--top fixed column no-wrap items-center" />
-    <div className="q-notifications__list q-notifications__list--bottom fixed column no-wrap items-center" />
-    <div className="q-notifications__list q-notifications__list--center fixed column no-wrap items-start justify-center" />
-    <div className="q-notifications__list q-notifications__list--center fixed column no-wrap items-end justify-center" />
-    <div className="q-notifications__list q-notifications__list--center fixed column no-wrap flex-center" />
-  </div>
+      <div className="q-notifications">
+        <div className="q-notifications__list q-notifications__list--top fixed column no-wrap items-start" />
+        <div className="q-notifications__list q-notifications__list--top fixed column no-wrap items-end" />
+        <div className="q-notifications__list q-notifications__list--bottom fixed column no-wrap items-start" />
+        <div className="q-notifications__list q-notifications__list--bottom fixed column no-wrap items-end" />
+        <div className="q-notifications__list q-notifications__list--top fixed column no-wrap items-center" />
+        <div className="q-notifications__list q-notifications__list--bottom fixed column no-wrap items-center" />
+        <div className="q-notifications__list q-notifications__list--center fixed column no-wrap items-start justify-center" />
+        <div className="q-notifications__list q-notifications__list--center fixed column no-wrap items-end justify-center" />
+        <div className="q-notifications__list q-notifications__list--center fixed column no-wrap flex-center" />
+      </div>
 </>
 
 
