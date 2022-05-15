@@ -1883,16 +1883,9 @@ const Home = (props: HomeProps) => {
                                                                         - Color Game
                             </p>
                             <br />
-                       
+    
 
-
-
-
-                                                      
-
-
-
-                        </div>
+                        
                       </div>
                     </div>
                   </div>
@@ -1965,10 +1958,10 @@ const Home = (props: HomeProps) => {
         <div className="q-notifications__list q-notifications__list--center fixed column no-wrap items-end justify-center" />
         <div className="q-notifications__list q-notifications__list--center fixed column no-wrap flex-center" />
       </div>
-</>
+ </>
 
 
-</main>
+    </main>
     );
 };
 
